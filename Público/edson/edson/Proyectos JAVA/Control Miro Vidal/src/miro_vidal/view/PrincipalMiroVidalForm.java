@@ -39,7 +39,7 @@ public class PrincipalMiroVidalForm extends javax.swing.JFrame {
         
         cargarlista();
         consulta();
-        PanelNuevoPersonal.setVisible(false);
+//        PanelNuevoPersonal.setVisible(false);
        
     }
 
